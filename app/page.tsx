@@ -128,7 +128,7 @@ export default function HomePage() {
               className="space-y-6"
             >
               <div className="inline-flex items-center rounded-full bg-slate-800/90 px-4 py-2 text-xs uppercase tracking-[0.3em] text-sky-300/90 shadow-sm shadow-sky-500/10">
-                IT Professional + Network Specialist
+                IT Professional
               </div>
               <div className="space-y-5">
                 <p className="text-xs uppercase tracking-[0.3em] text-sky-300/70">Hello, I’m Pratap</p>
